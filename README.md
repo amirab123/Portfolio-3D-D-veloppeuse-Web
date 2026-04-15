@@ -57,6 +57,6 @@ Si vous souhaitez collaborer :
 ---
 
 ## 👩‍💻 Auteur
-Amira 
+
 
 **Amira – Développeuse Web**
